@@ -1,0 +1,3 @@
+"/teacher/Sub",input: "/teacher/Constant_output_0",    input: "input"
+"/student/conv1/Conv",input: "student.conv1.weight",    input: "input"
+"/ae/encoder/enconv1/Conv",input: "ae.encoder.enconv1.weight",    input: "input"
